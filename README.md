@@ -1,13 +1,27 @@
-### Olá, eu sou o Leonardo ✌
+# 👋 Olá, eu sou o Leonardo
 
-- 💻 Desenvolvedor de software
+💻 Desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis.
 
-<h1>Tecnologias que utilizo</h1>
+---
 
-<div style="display: flex">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+## 🚀 Sobre mim
+- 🔭 Atualmente trabalhando com desenvolvimento full stack
+- ⚡ Foco em performance, boas práticas e código limpo
+- 📚 Sempre aprendendo novas tecnologias
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
+---
+
+## ⚡ Curiosidade
+Gosto de transformar ideias em código e resolver problemas de forma prática 🚀
