@@ -20,10 +20,3 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="margin: 0 10px;" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin: 0 10px;" />
 </div>
-
-<br>
-
----
-
-## ⚡ Curiosidade
-Gosto de transformar ideias em código e resolver problemas de forma prática 🚀
